@@ -1,0 +1,5 @@
+Modifed the stock linux 4.10 driver.
+
+Currently it is hardcoded for - 
+nvme_scan_ns_list
+as it isnt implemented in the firmware ( For CNS = 02 in identify_ns a list of ns should be returned)

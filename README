@@ -1,0 +1,3 @@
+uiogen2 - modified uio_pci_generic driver to setup correct IO mappings required to detect iSSD.
+
+NVME_Driver 4.10 - modified linux kernel driver .
